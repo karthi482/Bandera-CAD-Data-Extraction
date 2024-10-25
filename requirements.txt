@@ -1,8 +1,7 @@
+### dependency
 beautifulsoup4
-Flask
 matplotlib
 pandas
-Pillow
 requests
 openpyxl
 streamlit
